@@ -1,0 +1,728 @@
+{"getServerProductListResponse": {
+  "requestId": "8b24cbf3-6779-429b-a6e6-f37e5cf1bb16",
+  "returnCode": "0",
+  "returnMessage": "success",
+  "productList": [
+    {
+      "productCode": "SPSVRHICPU000001",
+      "productName": "vCPU 2EA, Memory 4GB, Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 2EA, Memory 4GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 4294967296,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPU000002",
+      "productName": "vCPU 4EA, Memory 8GB, Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 4EA, Memory 8GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 8589934592,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPU000003",
+      "productName": "vCPU 8EA, Memory 16GB, Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 8EA, Memory 16GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPU000004",
+      "productName": "vCPU 16EA, Memory 32GB, Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 16EA, Memory 32GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPU000005",
+      "productName": "vCPU 32EA, Memory 64GB, Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 32EA, Memory 64GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPUSSD001",
+      "productName": "vCPU 2EA, Memory 4GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 2EA, Memory 4GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 4294967296,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPUSSD002",
+      "productName": "vCPU 4EA, Memory 8GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 4EA, Memory 8GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 8589934592,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPUSSD003",
+      "productName": "vCPU 8EA, Memory 16GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 8EA, Memory 16GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPUSSD004",
+      "productName": "vCPU 16EA, Memory 32GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 16EA, Memory 32GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRHICPUSSD005",
+      "productName": "vCPU 32EA, Memory 64GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HICPU",
+        "codeName": "High CPU"
+      },
+      "productDescription": "vCPU 32EA, Memory 64GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000072",
+      "productName": "vCPU 2EA, Memory 8GB, Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 2EA, Memory 8GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 8589934592,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000073",
+      "productName": "vCPU 4EA, Memory 16GB, Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 4EA, Memory 16GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000074",
+      "productName": "vCPU 8EA, Memory 32GB, Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 8EA, Memory 32GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000075",
+      "productName": "vCPU 16EA, Memory 64GB, Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 16EA, Memory 64GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000076",
+      "productName": "vCPU 32EA, Memory 128GB, Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 32EA, Memory 128GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 137438953472,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000077",
+      "productName": "vCPU 2EA, Memory 8GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 2EA, Memory 8GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 8589934592,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000078",
+      "productName": "vCPU 4EA, Memory 16GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 4EA, Memory 16GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000079",
+      "productName": "vCPU 8EA, Memory 32GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 8EA, Memory 32GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000080",
+      "productName": "vCPU 16EA, Memory 64GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 16EA, Memory 64GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000081",
+      "productName": "vCPU 32EA, Memory 128GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "STAND",
+        "codeName": "Standard"
+      },
+      "productDescription": "vCPU 32EA, Memory 128GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 137438953472,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000082",
+      "productName": "vCPU 2EA, Memory 16GB, Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 2EA, Memory 16GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000083",
+      "productName": "vCPU 4EA, Memory 32GB, Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 4EA, Memory 32GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000084",
+      "productName": "vCPU 8EA, Memory 64GB, Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 8EA, Memory 64GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000085",
+      "productName": "vCPU 16EA, Memory 128GB, Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 16EA, Memory 128GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 137438953472,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000086",
+      "productName": "vCPU 32EA, Memory 256GB, Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 32EA, Memory 256GB, Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 274877906944,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000087",
+      "productName": "vCPU 2EA, Memory 16GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 2EA, Memory 16GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 2,
+      "memorySize": 17179869184,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000088",
+      "productName": "vCPU 4EA, Memory 32GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 4EA, Memory 32GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 4,
+      "memorySize": 34359738368,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000089",
+      "productName": "vCPU 8EA, Memory 64GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 8EA, Memory 64GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 8,
+      "memorySize": 68719476736,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000090",
+      "productName": "vCPU 16EA, Memory 128GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 16EA, Memory 128GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 16,
+      "memorySize": 137438953472,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    },
+    {
+      "productCode": "SPSVRSTAND000091",
+      "productName": "vCPU 32EA, Memory 256GB, [SSD]Disk 50GB",
+      "productType": {
+        "code": "HIMEM",
+        "codeName": "High Memory"
+      },
+      "productDescription": "vCPU 32EA, Memory 256GB, [SSD]Disk 50GB",
+      "infraResourceType": {
+        "code": "SVR",
+        "codeName": "Server"
+      },
+      "cpuCount": 32,
+      "memorySize": 274877906944,
+      "baseBlockStorageSize": 53687091200,
+      "osInformation": "",
+      "diskType": {
+        "code": "NET",
+        "codeName": "Network Storage"
+      },
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": "G2"
+    }
+  ],
+  "totalRows": 30
+}}

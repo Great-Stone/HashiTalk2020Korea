@@ -1,0 +1,1904 @@
+{"getServerImageProductListResponse": {
+  "requestId": "a7d0014b-f153-43f4-bc8a-835d94572306",
+  "returnCode": "0",
+  "returnMessage": "success",
+  "productList": [
+    {
+      "productCode": "SPSW0LINUX000139",
+      "productName": "CentOS 7.8 (64-bit)",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.8 (64-bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.8 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000046",
+      "productName": "centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000045",
+      "productName": "centos-7.2-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.2(64bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000044",
+      "productName": "centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6(64bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000031",
+      "productName": "centos-6.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.3(64bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.3 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000086",
+      "productName": "LAMP-centos-7.3.64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with LAMP",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with LAMP",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000088",
+      "productName": "WordPress-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with WordPress",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with WordPress",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000089",
+      "productName": "WordPress-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with WordPress",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with WordPress",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000092",
+      "productName": "Magento-centos-7.3.64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with Magento",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with Magento 2.3.3",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000093",
+      "productName": "Magento-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Magento 2.3.3",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Magento 2.3.3",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000094",
+      "productName": "Drupal-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with Drupal",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with Drupal",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000095",
+      "productName": "Drupal-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Drupal",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Drupal",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000096",
+      "productName": "Joomla!-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Joomla!",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Joomla!",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000097",
+      "productName": "Joomla!-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with Joomla!",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with Joomla!",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000098",
+      "productName": "Shadowsocks-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Shadowsocks",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Shadowsocks",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000099",
+      "productName": "Shadowsocks-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with Shadowsocks",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with Shadowsocks",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000106",
+      "productName": "Node.js-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Node.js",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Node.js",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000107",
+      "productName": "Node.js-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with Node.js",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with Node.js",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000116",
+      "productName": "GitLab-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with GitLab",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with GitLab",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000117",
+      "productName": "GitLab-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with GitLab",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with GitLab",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000118",
+      "productName": "LEMP-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with LEMP",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with LEMP",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000119",
+      "productName": "LEMP-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with LEMP",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with LEMP",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000120",
+      "productName": "HUGO-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with HUGO",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with HUGO",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000121",
+      "productName": "HUGO-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 (64-bit) with HUGO",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 (64-bit) with HUGO",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000137",
+      "productName": "Tomcat-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with Tomcat",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with Tomcat",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000032",
+      "productName": "centos-6.3-32",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.3(32bit)",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX32",
+        "codeName": "Linux 32 Bit"
+      },
+      "osInformation": "CentOS 6.3 (32-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000087",
+      "productName": "LAMP-Ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 (64-bit) with LAMP",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 (64-bit) with LAMP",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000029",
+      "productName": "ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 (64-bit) ",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000130",
+      "productName": "ubuntu-18.04",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 18.04 (64-bit) ",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 18.04 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000050",
+      "productName": "mysql(5.7)-centos-7.2-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.2 with MySQL 5.7",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.2 with MySQL 5.7 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000048",
+      "productName": "mysql(5.7)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with MySQL 5.7",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with MySQL 5.7 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000049",
+      "productName": "mysql(5.6)-centos-7.2-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.2 with MySQL 5.6",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.2 with MySQL 5.6 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000047",
+      "productName": "mysql(5.6)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with MySQL 5.6",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with MySQL 5.6 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000054",
+      "productName": "mysql(5.7)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with MySQL 5.7",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with MySQL 5.7 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000052",
+      "productName": "mysql(5.7)-ubuntu-14.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 14.04 with MySQL 5.7",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 14.04 with MySQL 5.7 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000051",
+      "productName": "mysql(5.6)-ubuntu-14.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 14.04 with MySQL 5.6",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 14.04 with MySQL 5.6 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000060",
+      "productName": "cubrid(9.2)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Cubrid 9.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Cubrid 9.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0047A",
+      "productName": "mssql(2017std)-win-2016-64-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2016 Server R2 with MSSQL 2017 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2016 with MSSQL 2017 Standard English Edition (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0048A",
+      "productName": "mssql(2017exp)-win-2016-64-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2016 Server R2 with MSSQL 2017 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2016 with MSSQL 2017 Express English Edition (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0050A",
+      "productName": "mssql(2019std)-win-2016-R2-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2016 Server R2 with MSSQL 2017 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": " Windows Server 2016 with MSSQL 2019 Standard English Edition (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000056",
+      "productName": "cubrid(9.2)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with Cubrid 9.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with Cubrid 9.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000059",
+      "productName": "cubrid(9.2)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Cubrid 9.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Cubrid 9.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000058",
+      "productName": "cubrid(9.2)-ubuntu-14.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 14.04 with Cubrid 9.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 14.04 with Cubrid 9.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000062",
+      "productName": "redis(3.2.8)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Redis 3.2.8",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Redis 3.2.8 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000080",
+      "productName": "Pinpoint(1.7.3)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Pinpoint 1.7.3",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Pinpoint 1.7.3 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000081",
+      "productName": "Pinpoint(1.7.3)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with Pinpoint 1.7.3",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with Pinpoint 1.7.3 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000114",
+      "productName": "redis(3.2.8)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Redis 4.0.14",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Redis 4.0.14 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000061",
+      "productName": "redis(3.2.8)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with Redis 3.2.8",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with Redis 3.2.8 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000082",
+      "productName": "Pinpoint(1.7.3)-ubuntu-14.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 14.04 with Pinpoint 1.7.3​",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 14.04 with Pinpoint 1.7.3​ (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000064",
+      "productName": "redis(3.2.8)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Redis 3.2.8",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Redis 3.2.8 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000083",
+      "productName": "Pinpoint(1.7.3)-ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 with Pinpoint 1.7.3",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu 16.04 with Pinpoint 1.7.3 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000115",
+      "productName": "redis(4.0.14)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Redis 4.0.14",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Redis 4.0.14 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000063",
+      "productName": "redis(3.2.8)-ubuntu-14.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 14.04 with Redis 3.2.8",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 14.04 with Redis 3.2.8 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000074",
+      "productName": "mariadb(10.2)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with MariaDB 10.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with MariaDB 10.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000073",
+      "productName": "mariadb(10.2)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with MariaDB 10.2",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with MariaDB 10.2 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000069",
+      "productName": "PostgreSQL 9.4-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with PostgreSQL 9.4",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with PostgreSQL 9.4 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000070",
+      "productName": "PostgreSQL 9.4-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with PostgreSQL 9.4",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with PostgreSQL 9.4 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000076",
+      "productName": "rabbitmq(3.7.0)-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with RabbitMQ 3.7.0",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with RabbitMQ 3.7.0 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000078",
+      "productName": "rabbitmq(3.7.0)-centos-6.6-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 6.6 with RabbitMQ 3.7.0",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 6.6 with RabbitMQ 3.7.0 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0043A",
+      "productName": "mssql(2016std)-win-2012-64-R2-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2012 Server R2 with MSSQL 2016 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2012 R2 with MSSQL 2016 Standard English Edition (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000075",
+      "productName": "rabbitmq(3.7.0)-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with RabbitMQ 3.7.0",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with RabbitMQ 3.7.0 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000077",
+      "productName": "rabbitmq(3.7.0)-ubuntu-14.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 14.04 with RabbitMQ 3.7.0",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 14.04 with RabbitMQ 3.7.0 (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000066",
+      "productName": "tensorflow-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Tensorflow",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Tensorflow (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000065",
+      "productName": "tensorflow-ubuntu-16.04-64-server",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Tensorflow",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Tensorflow (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000079",
+      "productName": "tensorflow-cluster-ubuntu-16.04-64-master",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu 16.04 with Tensorflow Cluster",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Tensorflow-Cluster-Master (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000068",
+      "productName": "Jenkins-CentOS-7.3",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Jenkins 2.190",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Jenkins 2.190",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000124",
+      "productName": "WebtoB-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with WebtoB",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with WebtoB (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000126",
+      "productName": "JEUS-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with JEUS",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with JEUS (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000128",
+      "productName": "Tibero-centos-7.3-64Tibero-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Tibero",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Tibero (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000138",
+      "productName": "Tomcat-centos-7.3-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "CentOS 7.3 with Tomcat",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "LNX64",
+        "codeName": "Linux 64 Bit"
+      },
+      "osInformation": "CentOS 7.3 with Tomcat (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0036A",
+      "productName": "mssql(2014std)-win-2012-64-R2-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2012 Server R2 with MSSQL 2014 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2012 R2 with MSSQL 2014 Standard English Edition (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000067",
+      "productName": "Jenkins-Ubuntu-16.04",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Jenkins 2.190",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Jenkins 2.190",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000125",
+      "productName": "WebtoB-ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with WebtoB",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with WebtoB (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000127",
+      "productName": "JEUS-ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with JEUS",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with JEUS (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000129",
+      "productName": "Tibero-ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Tibero",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Tibero (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0LINUX000131",
+      "productName": "Superset ubuntu-16.04-64",
+      "productType": {
+        "code": "LINUX",
+        "codeName": "Linux"
+      },
+      "productDescription": "Ubuntu Server 16.04 with Superset and PostgreSQL",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 53687091200,
+      "platformType": {
+        "code": "UBS64",
+        "codeName": "Ubuntu Server 64 Bit"
+      },
+      "osInformation": "Ubuntu Server 16.04 with Superset and PostgreSQL (64-bit)",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0035A",
+      "productName": "mssql(2012std)-win-2012-64-R2-en",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows 2012 Server R2 with MSSQL 2012 Standard English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2012 R2 with MSSQL 2012 Standard English Edition (64-bit) ",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0015A",
+      "productName": "Windows Server 2012(64bit) R2 English Edition",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows Server 2012(64bit) R2 English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2012(64bit) R2 English Edition",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    },
+    {
+      "productCode": "SPSW0WINNTEN0016A",
+      "productName": "Windows Server 2016 (64-bit) English Edition",
+      "productType": {
+        "code": "WINNT",
+        "codeName": "Windows NT"
+      },
+      "productDescription": "Windows Server 2016 (64-bit) English Edition",
+      "infraResourceType": {
+        "code": "SW",
+        "codeName": "Software"
+      },
+      "cpuCount": 0,
+      "memorySize": 0,
+      "baseBlockStorageSize": 107374182400,
+      "platformType": {
+        "code": "WND64",
+        "codeName": "Windows 64 Bit"
+      },
+      "osInformation": "Windows Server 2016 (64-bit) English Edition",
+      "dbKindCode": "",
+      "addBlockStorageSize": 0,
+      "generationCode": ""
+    }
+  ],
+  "totalRows": 79
+}}
