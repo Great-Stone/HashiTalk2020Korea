@@ -144,6 +144,7 @@ sudo cat > /etc/nomad.d/client.hcl << EOF
 name = "gcp_client"
 data_dir  = "/var/lib/nomad"
 datacenter = "${datacenter}"
+region = "GCP-A"
 bind_addr = "0.0.0.0"
 client {
   enabled = true

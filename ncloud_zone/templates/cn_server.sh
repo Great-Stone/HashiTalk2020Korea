@@ -117,6 +117,7 @@ sudo cat > /etc/nomad.d/server.hcl << EOF
 name = "ncloud_server"
 data_dir  = "/var/lib/nomad"
 datacenter = "${datacenter}"
+region = "NCloud-C"
 bind_addr = "0.0.0.0"
 server {
   enabled = true
