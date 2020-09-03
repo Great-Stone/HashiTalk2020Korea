@@ -36,6 +36,7 @@
 2. API 의 WAN IP 서비스 등록 [Consul / NCloud]
     - NCloud의 `cd-client`에 ssh 접속
     - consul `config-dir`로 지정한 위치(ex: /etc/consul.d)에 `consul_service/api.hcl` 내용을 참고하여 `api.hcl`파일 생성
+        - Check 항목의 IP를 프로비저닝된 IP에 맞게 수정
         - lan address를 프로비저닝된 IP에 맞게 수정
         - wan address를 프로비저닝된 IP에 맞게 수정
     - `consul reload` 실행하여 디렉토리에 위한 설정 읽기
