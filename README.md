@@ -1,4 +1,6 @@
-# HashiTalk: Korea - 2020
+# Super Dynamic Service Orchestrator
+> HashiTalk: Korea - 2020
+> 2020년 9월 3일 15:30 (KST)
 
 ## Prerequisite
 
